@@ -1,0 +1,18 @@
+{
+    "slow_internet": {
+        "symptom": "My internet is very slow.",
+        "solution": "Try restarting your router and checking your connection settings."
+    },
+    "app_crashing": {
+        "symptom": "The app keeps crashing on startup.",
+        "solution": "Update the app to the latest version and restart your device."
+    },
+    "not_updated": {
+        "symptom": "The app isn't opening",
+        "solution": "Request new update"
+    },
+    "app_glitch": {
+        "symptom": "Screen is glitching when I open the app.",
+        "solution": "Try clearing the app cache and data, then restart the app."
+    }
+}
